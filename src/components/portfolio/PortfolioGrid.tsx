@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { ExternalLink } from 'lucide-react';
+import React from 'react';
 
 export default function PortfolioGrid() {
   const projects = [
@@ -43,7 +44,7 @@ export default function PortfolioGrid() {
             Real projects for real businesses. Each one designed to convert visitors into customers.
           </p>
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-amber-50 border border-amber-200 rounded-full text-sm text-amber-700 font-medium">
-            🚧 Portfolio under renovation - New case studies coming soon
+            Check out my recent sample works
           </div>
         </motion.div>
 
