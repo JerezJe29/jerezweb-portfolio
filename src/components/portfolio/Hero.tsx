@@ -1,6 +1,7 @@
 import { Button } from '../ui/button';
 import { ArrowRight, Sparkles } from 'lucide-react';
 import { motion } from 'framer-motion';
+import React from 'react';
 
 export default function Hero() {
   const scrollToContact = () => {

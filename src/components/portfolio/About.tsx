@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { Award, Heart, Code } from 'lucide-react';
+import React from 'react';
 
 export default function About() {
   return (

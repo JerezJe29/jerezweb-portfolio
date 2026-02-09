@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { Mail, Send } from 'lucide-react';
+import React from 'react';
 
 export default function ContactForm() {
   return (
